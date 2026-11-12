@@ -71,13 +71,3 @@ failures, no errors, no leaks. Valgrind was not used.
 - Course lecture on randomized data structures; W. Pugh, *A Skip List
   Cookbook* (1990); SplitMix64 (Steele, Lea, Flood, OOPSLA 2014); Google
   Benchmark user guide.
-- AI assistance: Claude (Anthropic, via Claude Code) generated parts of the code,
-  scripts and report text under my direction. I have
-  reviewed, run and verified all of it.
-
-## Declaration of individual work
-
-I declare that this project was carried out individually, that I did not
-share code, results or report text with other students, and that all
-external sources and tools, including AI assistance, are acknowledged above.
-I understand every part of the submission and can explain it.
