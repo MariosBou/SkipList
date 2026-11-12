@@ -1,0 +1,5 @@
+randomized mixed operations:
+  seed 11: 5000 ops (2258 splits, 2606 unions), final size 2033
+  seed 22: 5000 ops (2227 splits, 2586 unions), final size 1979
+  seed 33: 5000 ops (2244 splits, 2593 unions), final size 1982
+82549 checks, 0 failures
